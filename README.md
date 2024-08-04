@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyyyyyy0&label=Profile%20views&color=0e75b6&style=flat" alt="skyyyyyy0" /> </p>
 
-- 💬 Ask me about **Python, C++, Java**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyyyyyy0" alt="skyyyyyy0" /></a> </p>
+
+- 🔭 I’m currently working on **website**
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **AllAboutVaxx**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Swift**
 
 - 📫 How to reach me **haneul110721@gmail.com**
 
