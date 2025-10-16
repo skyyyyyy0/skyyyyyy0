@@ -61,9 +61,18 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyyyyyy0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+<p>
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=skyyyyyy0&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&langs_count=6" 
+    alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyyyyyy0&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<p>
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=skyyyyyy0&show_icons=true&count_private=true&hide=stars,prs,issues&theme=tokyonight" 
+    alt="GitHub Stats" />
+</p>
+
 
 ---
 
