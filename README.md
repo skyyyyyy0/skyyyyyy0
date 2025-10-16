@@ -53,9 +53,9 @@
 
 <h3 align="left">📂 Featured Projects</h3>
 
-- 🎓 **Every AIdu** – SAT-style grammar question generator using rule-based NLP + T5 fine-tuning [[GitHub Repo]](https://github.com/skyyyyyy0/every-aidu)
-- 📊 **NYC Taxi Trip EDA** – Exploratory analysis using Pandas, Matplotlib, Seaborn, SQL [[Repo]](https://github.com/skyyyyyy0/nyc-taxi-eda)
-- 🤖 **Stock Price Prediction** – LSTM-based forecasting on financial data [[Repo]](https://github.com/skyyyyyy0/stock-lstm)
+- 🎓 <strong>Every AIdu</strong> – AI-powered SAT grammar question generator using rule-based NLP + T5 fine-tuning 
+- ⚡️ <strong>Surplus Energy Analysis</strong> – Data-driven analysis of electricity surplus in NYC and credit refund system design using weather + consumption data
+- 📉 <strong>User Retention Dashboard</strong> – Built a Python + SQL analytics pipeline for tracking DAU, churn rate, and LTV in EdTech product
 
 ---
 
